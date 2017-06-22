@@ -1,3 +1,5 @@
+This is a custom version of the yimmy theme.
+
 ## yimmy theme
 
 A simple two-line theme with support for terminals configured with Solarized
