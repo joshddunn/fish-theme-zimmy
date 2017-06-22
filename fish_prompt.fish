@@ -6,7 +6,7 @@ set __right_triangle \u25B6
 
 # Default to Solarized colors because yimmy began as a Solarized theme
 if not set -q yimmy_solarized
-  set -U yimmy_solarized true
+  set -U yimmy_solarized false
 end
 
 function fish_prompt
