@@ -71,5 +71,6 @@ function fish_prompt
   echo
 
   # Line 2
+  iterm2_prompt_mark
   echo -n $pcolor'└'$pcolor$__fish_prompt_char $normal
 end
